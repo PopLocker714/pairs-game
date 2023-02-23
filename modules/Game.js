@@ -1,4 +1,4 @@
-import { AmazingCard } from "./card.js"
+import { AmazingCard } from "./Card.js"
 import { StartWindow } from "./StartWindow.js"
 import { Timer } from "./Time.js"
 
